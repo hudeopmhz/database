@@ -1,0 +1,21 @@
+events: [
+        {
+        id: '001',
+        location: 'Sydney, Australia',
+        time: '23:45, Dec 31, 2020',
+        title: 'New Year Eve Party Sydney'
+      },
+      {
+        id: '002',
+        location: 'Melbourne, Australia',
+        time: '23:45, Dec 31, 2020',
+        title: 'New Year Eve Party Melbourne'
+      },
+      {
+        id: '003',
+        location: 'Adelaide, Australia',
+        time: '23:45, Dec 31, 2020',
+        title: 'New Year Eve Party Adelaide'
+      }
+
+      ]
