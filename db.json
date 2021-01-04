@@ -1,4 +1,5 @@
-[
+{
+  "events": [
         {
         id: '001',
         location: 'Sydney, Australia',
@@ -19,3 +20,4 @@
       }
 
       ]
+}
